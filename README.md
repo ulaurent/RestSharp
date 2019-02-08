@@ -21,3 +21,10 @@ http://localhost:3000/posts?id=1
 
 # Deserialization
 ![restsharp2](https://user-images.githubusercontent.com/39177018/52456636-a8f52a80-2b23-11e9-8f48-d7c7b7c4f86b.PNG)
+
+# Another way
+![restsharp3](https://user-images.githubusercontent.com/39177018/52456726-202abe80-2b24-11e9-89c5-18ee8be79401.PNG)
+
+# KVP
+
+![kvp](https://user-images.githubusercontent.com/39177018/52456817-aba44f80-2b24-11e9-9e46-6ecef996e1d1.PNG)
