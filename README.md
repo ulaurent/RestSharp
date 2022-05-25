@@ -1,4 +1,6 @@
 # RestSharp
+The main purpose of RestSharp is to make synchronous and asynchronous calls to remote resources over HTTP. As the name suggests, the main audience of RestSharp are 
+developers who use REST APIs. However, RestSharp can call any API over HTTP, as long as you have the resource URI and request parameters that you want to send comply with W3C HTTP standards. RestSharp can take care of serializing the request body to JSON or XML and deserialize the response. 
 
 - NUnit
 - Specflow
